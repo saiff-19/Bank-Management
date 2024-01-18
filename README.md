@@ -1,5 +1,7 @@
 # Bank Management System
 
+![mysql](https://github.com/saiff-19/Bank-Management/assets/126145927/58339de7-5e2d-4764-b1db-7d09ba3bd4e4)
+
 The **Bank Management System** is a Python application that facilitates the storage and retrieval of bank-related data using MySQL as the database. It allows users to enter customer information and perform basic operations related to a bank management system.
 
 ## Features
